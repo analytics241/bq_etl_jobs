@@ -1,0 +1,234 @@
+[
+  {
+    "name": "ID",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Order ref ID",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Brand",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Brand ID",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "External Platform ID",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Channel",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Created At",
+    "mode": "NULLABLE",
+    "type": "TIMESTAMP",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Order State",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Request Delivery Time",
+    "mode": "NULLABLE",
+    "type": "TIMESTAMP",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Time Slot Start",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Time Slot End",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Payment Mode",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Payment Transaction ID",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Customer Name",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Customer ID",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Store Name",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Store ID",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Store ref ID",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Coupon applied",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Total Amount",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Merchant Total",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Sub-total Amount",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Discount",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Aggregator Discount",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Merchant Discount",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Merchant Taxes",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Total Taxes",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Charges",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Fulfillment mode",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Delivery Type",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Wallet credit amount",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "City",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+
+ {
+    "name": "Week_Number",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  }
+]

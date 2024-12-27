@@ -1,0 +1,51 @@
+[
+    {
+      "name": "date",
+      "mode": "NULLABLE",
+      "type": "DATE",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "restaurant_id",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "brand_name",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "area",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "city",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "accept_perc",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "week_number",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    }
+  ]

@@ -1,0 +1,37 @@
+[
+    {
+      "name": "Store_Name",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "City",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "Swiggy_Rest_ID",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "Zomato_Rest_ID",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "Brand",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    }
+  ]

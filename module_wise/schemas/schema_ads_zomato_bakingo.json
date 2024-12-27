@@ -1,0 +1,282 @@
+[
+    {
+      "name": "duration",
+      "mode": "NULLABLE",
+      "type": "DATE",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "duration_num_days",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "city_name",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "Product_type",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "Source",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "Payment mode",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "foc_or_paid",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "merchant_id",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "campaign_level",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "Res ID_or_Chain ID",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "res_name",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "campaign_id",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "proforma_number",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "segmentation_name",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "segmentation_value",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "campaign_start_date",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "campaign_end_date",
+      "mode": "NULLABLE",
+      "type": "DATE",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "deactivation_date",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "campaign status",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "total_campaign_budget",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "cpv_or_cpi",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "total clicks_or_impressions",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "daily_campaign_budget",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "daily_target_leads",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "billed_amount",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "delivered_impressions",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "delivered_clicks",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "billed_leads",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "underdelivery_UD",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "cart_builts",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "ad_orders",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "ads_cv",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "ads_gmv",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "ROI",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "new_users_acquired",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "lapsed_users_acquired",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "repeat_users",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "visibility",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "ineffective_br",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "pool_parent_id",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    }
+  ]

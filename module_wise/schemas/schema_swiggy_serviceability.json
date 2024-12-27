@@ -1,0 +1,72 @@
+[
+    {
+      "name": "date",
+      "mode": "NULLABLE",
+      "type": "DATE",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "restaurant_id",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "brand_name",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "area",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "city",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "ideal_open_hrs",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "actual_open_hrs",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "hs_vendor",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "hs_swiggy",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "",
+      "fields": []
+    },
+    {
+      "name": "week_number",
+      "mode": "NULLABLE",
+      "type": "INTEGER",
+      "description": "",
+      "fields": []
+    }
+  ]

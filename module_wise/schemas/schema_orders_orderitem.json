@@ -1,0 +1,171 @@
+[
+  {
+    "name": "Order ID",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Order ref ID",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Aggregator Order ID",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Brand",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Brand ID",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Channel",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Order State",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Store",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Order date-time",
+    "mode": "NULLABLE",
+    "type": "TIMESTAMP",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Item ID",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Item ref ID",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Item Name",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Quantity",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Unit Price",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Total Taxes",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Liability On",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Total Charges",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Total Price",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "options",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "option_ids",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Coupon applied",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Coupon value",
+    "mode": "NULLABLE",
+    "type": "FLOAT",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "city",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "Week_Number",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  }
+
+]
